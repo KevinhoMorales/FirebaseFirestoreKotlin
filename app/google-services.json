@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "77883537594",
+    "project_id": "cursokotlin01",
+    "storage_bucket": "cursokotlin01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77883537594:android:3326314ae8402558316a83",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.firebasefirestorekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77883537594-joig631iuk1edc6cvdtlrks0ki7brigb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NKRF6V7HC1By40IcSIENJqXtlilda64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77883537594-joig631iuk1edc6cvdtlrks0ki7brigb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77883537594:android:22e8eda70816221b316a83",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.firebasesigninkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77883537594-6soq362ibkb1qllq7ns7lcc86s9mlhpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevinhomorales.firebasesigninkotlin",
+            "certificate_hash": "516c59d17b73c1a34de5c147c92db1ce5b0d5c32"
+          }
+        },
+        {
+          "client_id": "77883537594-joig631iuk1edc6cvdtlrks0ki7brigb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NKRF6V7HC1By40IcSIENJqXtlilda64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77883537594-joig631iuk1edc6cvdtlrks0ki7brigb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
